@@ -1,3 +1,8 @@
 # Ignore the design
 Design.xcf
 
+# Ignore the personal notes
+notes.md
+
+# Ignore the modules
+node_modules
